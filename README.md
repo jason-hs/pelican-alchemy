@@ -8,7 +8,7 @@ A theme for the [Pelican](http://getpelican.com) static site generator. A fork o
 ![pelican-alchemy](screenshot.png)
 
 
-## Live Demo
+## See it Live
 
 [zchfvy.com](https://zchfvy.com)
 
